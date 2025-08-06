@@ -1,4 +1,4 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [John San Martin](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
